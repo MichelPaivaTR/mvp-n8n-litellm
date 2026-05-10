@@ -1,0 +1,3 @@
+# IMPLEMENTATION_PLAN
+
+Não gerado.
