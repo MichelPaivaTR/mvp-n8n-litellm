@@ -1,0 +1,3 @@
+# ARCHITECTURE
+
+Não gerado.
